@@ -1,13 +1,6 @@
 {
   "2026-08-04": [
     {
-      "sessionId": 15510379,
-      "startTime": "2026-08-04T06:15",
-      "screen": "IMAX",
-      "seatsAvailable": 34,
-      "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15510379"
-    },
-    {
       "sessionId": 15434286,
       "startTime": "2026-08-04T10:00",
       "screen": "IMAX",
@@ -378,7 +371,7 @@
       "sessionId": 15509430,
       "startTime": "2026-08-16T14:00",
       "screen": "IMAX",
-      "seatsAvailable": 13,
+      "seatsAvailable": 11,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15509430"
     },
     {
