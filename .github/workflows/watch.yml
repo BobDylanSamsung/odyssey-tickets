@@ -11,6 +11,7 @@ permissions:
 
 concurrency:
   group: watch-sessions
+  cancel-in-progress: false
 
 jobs:
   watch:
@@ -34,7 +35,8 @@ jobs:
         git add -A sessions
         git commit -m "Sessions as at $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
         for delay in 2 4 8 16 0; do
-          git pull --rebase && git push && exit 0
+          git pull --rebase -X theirs || { git rebase --abort; sleep "$delay"; continue; }
+          git push && exit 0
           [ "$delay" = 0 ] && exit 1
           sleep "$delay"
         done
