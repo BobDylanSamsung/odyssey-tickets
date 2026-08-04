@@ -3,8 +3,7 @@ name: Watch sessions
 on:
   workflow_dispatch:
   schedule:
-  # Hourly, at 17 past.
-  - cron: '17 * * * *'
+  - cron: '*/15 * * * *'
 
 permissions:
   contents: write
