@@ -162,7 +162,9 @@ def main(argv=None):
     state_path = OUT_DIR / "state.json"
     state = load_state(state_path)
 
-    new_sessions, seat_increases = diff_sessions(by_date, state)
+    watch_from = "2026-09-01"
+    by_date_watched = {d: s for d, s in by_date.items() if d >= watch_from}
+    new_sessions, seat_increases = diff_sessions(by_date_watched, state)
 
     state_path.write_text(json.dumps(state, indent=2) + "\n")
 
