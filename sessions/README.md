@@ -1,16 +1,16 @@
 # The Odyssey at IMAX Sydney
 
-Last checked: 2026-08-04 06:26 UTC
+Last checked: 2026-08-04 07:38 UTC
 On sale through: **2026-09-09**
 
 ## All sessions
 
 | Date | Sessions |
 | --- | --- |
-| Tue 4 Aug 2026 | 5:40 PM (IMAX) — 3 seats, 9:30 PM (IMAX) — 5 seats |
-| Wed 5 Aug 2026 | 10:00 AM (IMAX) — 26 seats, 1:50 PM (IMAX) — 21 seats, 5:40 PM (IMAX) — 4 seats, 9:30 PM (IMAX) — 17 seats |
+| Tue 4 Aug 2026 | 5:40 PM (IMAX) — 3 seats, 9:30 PM (IMAX) — 4 seats |
+| Wed 5 Aug 2026 | 10:00 AM (IMAX) — 25 seats, 1:50 PM (IMAX) — 23 seats, 5:40 PM (IMAX) — 4 seats, 9:30 PM (IMAX) — 17 seats |
 | Thu 6 Aug 2026 | 6:15 AM (IMAX) — 53 seats, 10:00 AM (IMAX) — 33 seats, 1:50 PM (IMAX) — 28 seats, 5:40 PM (IMAX) — 18 seats, 9:30 PM (IMAX) — 30 seats |
-| Fri 7 Aug 2026 | 6:15 AM (IMAX) — 56 seats, 10:00 AM (IMAX) — 32 seats, 1:50 PM (IMAX) — 29 seats, 5:40 PM (IMAX) — 5 seats, 9:30 PM (IMAX) — 18 seats |
+| Fri 7 Aug 2026 | 6:15 AM (IMAX) — 56 seats, 10:00 AM (IMAX) — 32 seats, 1:50 PM (IMAX) — 29 seats, 5:40 PM (IMAX) — 5 seats, 9:30 PM (IMAX) — 16 seats |
 | Sat 8 Aug 2026 | 6:15 AM (IMAX) — 40 seats, 10:00 AM (IMAX) — 23 seats, 1:50 PM (IMAX) — 7 seats, 5:40 PM (IMAX) — 3 seats, 9:30 PM (IMAX) — 20 seats |
 | Sun 9 Aug 2026 | 6:15 AM (IMAX) — 38 seats, 10:00 AM (IMAX) — 8 seats, 1:50 PM (IMAX) — 3 seats, 5:40 PM (IMAX) — 12 seats, 9:30 PM (IMAX) — 30 seats |
 | Mon 10 Aug 2026 | 10:00 AM (IMAX) — 29 seats, 1:50 PM (IMAX) — 41 seats, 5:40 PM (IMAX) — 19 seats, 9:30 PM (IMAX) — 39 seats |
