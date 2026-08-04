@@ -40,25 +40,46 @@ jobs:
           sleep "$delay"
         done
 
-    - name: Raise an issue when a watched date is released
+    - name: Raise an issue for new sessions
       if: steps.check.outputs.new_dates != ''
       uses: actions/github-script@v7
       env:
         NEW_DATES: ${{ steps.check.outputs.new_dates }}
-        BODY: ${{ steps.check.outputs.body }}
+        NEW_BODY: ${{ steps.check.outputs.new_body }}
       with:
         script: |
           const dates = process.env.NEW_DATES;
           await github.rest.issues.create({
             owner: context.repo.owner,
             repo: context.repo.repo,
-            title: `The Odyssey — IMAX Sydney sessions released for ${dates}`,
-            // Assigning notifies regardless of the repo's watch settings.
+            title: `The Odyssey — new sessions on sale for ${dates}`,
             assignees: [context.repo.owner],
             body: [
-              `Tickets are now on sale for **${dates}** at IMAX Sydney.`,
+              `New sessions are now on sale for **${dates}** at IMAX Sydney.`,
               '',
-              process.env.BODY,
+              process.env.NEW_BODY,
               'Seat counts are from the moment of the check — book early.',
+            ].join('\n'),
+          });
+
+    - name: Raise an issue when seats free up
+      if: steps.check.outputs.seat_dates != ''
+      uses: actions/github-script@v7
+      env:
+        SEAT_DATES: ${{ steps.check.outputs.seat_dates }}
+        SEAT_BODY: ${{ steps.check.outputs.seat_body }}
+      with:
+        script: |
+          const dates = process.env.SEAT_DATES;
+          await github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: `The Odyssey — seats freed up for ${dates}`,
+            assignees: [context.repo.owner],
+            body: [
+              `Returned or released seats detected for **${dates}** at IMAX Sydney.`,
+              '',
+              process.env.SEAT_BODY,
+              'Seat counts are from the moment of the check — book quickly.',
             ].join('\n'),
           });
