@@ -1,65 +1,32 @@
 # The Odyssey at IMAX Sydney
 
-Last checked: 2026-08-04 04:50 UTC
+Last checked: 2026-08-04 05:13 UTC
 On sale through: **2026-09-09**
-
-## Watching
-
-- Tue 1 Sep 2026 — not released yet
-- Wed 2 Sep 2026 — not released yet
-- Thu 3 Sep 2026 — not released yet
-- Fri 4 Sep 2026 — not released yet
-- Sat 5 Sep 2026 — not released yet
-- Sun 6 Sep 2026 — not released yet
-- Mon 7 Sep 2026 — not released yet
-- Tue 8 Sep 2026 — not released yet
-- Wed 9 Sep 2026 — not released yet
-- Thu 10 Sep 2026 — not released yet
-- Fri 11 Sep 2026 — not released yet
-- Sat 12 Sep 2026 — not released yet
-- Sun 13 Sep 2026 — not released yet
-- Mon 14 Sep 2026 — not released yet
-- Tue 15 Sep 2026 — not released yet
-- Wed 16 Sep 2026 — not released yet
-- Thu 17 Sep 2026 — not released yet
-- Fri 18 Sep 2026 — not released yet
-- Sat 19 Sep 2026 — not released yet
-- Sun 20 Sep 2026 — not released yet
-- Mon 21 Sep 2026 — not released yet
-- Tue 22 Sep 2026 — not released yet
-- Wed 23 Sep 2026 — not released yet
-- Thu 24 Sep 2026 — not released yet
-- Fri 25 Sep 2026 — not released yet
-- Sat 26 Sep 2026 — not released yet
-- Sun 27 Sep 2026 — not released yet
-- Mon 28 Sep 2026 — not released yet
-- Tue 29 Sep 2026 — not released yet
-- Wed 30 Sep 2026 — not released yet
 
 ## All sessions
 
 | Date | Sessions |
 | --- | --- |
-| Tue 4 Aug 2026 | 5:40 PM (IMAX), 9:30 PM (IMAX) |
-| Wed 5 Aug 2026 | 10:00 AM (IMAX), 1:50 PM (IMAX), 5:40 PM (IMAX), 9:30 PM (IMAX) |
-| Thu 6 Aug 2026 | 6:15 AM (IMAX), 10:00 AM (IMAX), 1:50 PM (IMAX), 5:40 PM (IMAX), 9:30 PM (IMAX) |
-| Fri 7 Aug 2026 | 6:15 AM (IMAX), 10:00 AM (IMAX), 1:50 PM (IMAX), 5:40 PM (IMAX), 9:30 PM (IMAX) |
-| Sat 8 Aug 2026 | 6:15 AM (IMAX), 10:00 AM (IMAX), 1:50 PM (IMAX), 5:40 PM (IMAX), 9:30 PM (IMAX) |
-| Sun 9 Aug 2026 | 6:15 AM (IMAX), 10:00 AM (IMAX), 1:50 PM (IMAX), 5:40 PM (IMAX), 9:30 PM (IMAX) |
-| Mon 10 Aug 2026 | 10:00 AM (IMAX), 1:50 PM (IMAX), 5:40 PM (IMAX), 9:30 PM (IMAX) |
-| Tue 11 Aug 2026 | 6:15 AM (IMAX), 10:00 AM (IMAX), 1:50 PM (IMAX), 5:40 PM (IMAX), 9:30 PM (IMAX) |
-| Wed 12 Aug 2026 | 10:00 AM (IMAX), 1:50 PM (IMAX), 5:40 PM (IMAX), 9:30 PM (IMAX) |
-| Thu 13 Aug 2026 | 2:00 PM (IMAX), 8:45 PM (IMAX) |
-| Fri 14 Aug 2026 | 2:00 PM (IMAX), 8:45 PM (IMAX) |
-| Sat 15 Aug 2026 | 7:15 AM (IMAX), 11:15 AM (IMAX), 8:45 PM (IMAX) |
-| Sun 16 Aug 2026 | 7:15 AM (IMAX), 2:00 PM (IMAX), 8:45 PM (IMAX) |
-| Mon 17 Aug 2026 | 2:00 PM (IMAX), 8:45 PM (IMAX) |
-| Tue 18 Aug 2026 | 11:15 AM (IMAX), 8:45 PM (IMAX) |
-| Wed 19 Aug 2026 | 2:00 PM (IMAX), 8:45 PM (IMAX) |
-| Thu 20 Aug 2026 | 1:50 PM (IMAX), 5:40 PM (IMAX) |
-| Fri 21 Aug 2026 | 1:50 PM (IMAX), 5:40 PM (IMAX) |
-| Sat 22 Aug 2026 | 1:50 PM (IMAX), 5:40 PM (IMAX) |
-| Sun 23 Aug 2026 | 1:50 PM (IMAX), 5:40 PM (IMAX) |
-| Mon 24 Aug 2026 | 10:00 AM (IMAX), 1:50 PM (IMAX) |
-| Tue 25 Aug 2026 | 1:50 PM (IMAX), 5:40 PM (IMAX) |
-| Wed 26 Aug 2026 | 1:50 PM (IMAX), 5:40 PM (IMAX) |
+| Tue 4 Aug 2026 | 5:40 PM (IMAX) — 3 seats, 9:30 PM (IMAX) — 5 seats |
+| Wed 5 Aug 2026 | 10:00 AM (IMAX) — 26 seats, 1:50 PM (IMAX) — 23 seats, 5:40 PM (IMAX) — 4 seats, 9:30 PM (IMAX) — 17 seats |
+| Thu 6 Aug 2026 | 6:15 AM (IMAX) — 53 seats, 10:00 AM (IMAX) — 33 seats, 1:50 PM (IMAX) — 28 seats, 5:40 PM (IMAX) — 18 seats, 9:30 PM (IMAX) — 30 seats |
+| Fri 7 Aug 2026 | 6:15 AM (IMAX) — 56 seats, 10:00 AM (IMAX) — 33 seats, 1:50 PM (IMAX) — 29 seats, 5:40 PM (IMAX) — 5 seats, 9:30 PM (IMAX) — 18 seats |
+| Sat 8 Aug 2026 | 6:15 AM (IMAX) — 40 seats, 10:00 AM (IMAX) — 23 seats, 1:50 PM (IMAX) — 7 seats, 5:40 PM (IMAX) — 3 seats, 9:30 PM (IMAX) — 20 seats |
+| Sun 9 Aug 2026 | 6:15 AM (IMAX) — 38 seats, 10:00 AM (IMAX) — 8 seats, 1:50 PM (IMAX) — 3 seats, 5:40 PM (IMAX) — 14 seats, 9:30 PM (IMAX) — 30 seats |
+| Mon 10 Aug 2026 | 10:00 AM (IMAX) — 29 seats, 1:50 PM (IMAX) — 41 seats, 5:40 PM (IMAX) — 19 seats, 9:30 PM (IMAX) — 39 seats |
+| Tue 11 Aug 2026 | 6:15 AM (IMAX) — 42 seats, 10:00 AM (IMAX) — 22 seats, 1:50 PM (IMAX) — 23 seats, 5:40 PM (IMAX) — 6 seats, 9:30 PM (IMAX) — 23 seats |
+| Wed 12 Aug 2026 | 10:00 AM (IMAX) — 42 seats, 1:50 PM (IMAX) — 42 seats, 5:40 PM (IMAX) — 24 seats, 9:30 PM (IMAX) — 45 seats |
+| Thu 13 Aug 2026 | 2:00 PM (IMAX) — 44 seats, 8:45 PM (IMAX) — 34 seats |
+| Fri 14 Aug 2026 | 2:00 PM (IMAX) — 31 seats, 8:45 PM (IMAX) — 26 seats |
+| Sat 15 Aug 2026 | 7:15 AM (IMAX) — 42 seats, 11:15 AM (IMAX) — 17 seats, 8:45 PM (IMAX) — 17 seats |
+| Sun 16 Aug 2026 | 7:15 AM (IMAX) — 46 seats, 2:00 PM (IMAX) — 13 seats, 8:45 PM (IMAX) — 27 seats |
+| Mon 17 Aug 2026 | 2:00 PM (IMAX) — 44 seats, 8:45 PM (IMAX) — 41 seats |
+| Tue 18 Aug 2026 | 11:15 AM (IMAX) — 27 seats, 8:45 PM (IMAX) — 18 seats |
+| Wed 19 Aug 2026 | 2:00 PM (IMAX) — 44 seats, 8:45 PM (IMAX) — 31 seats |
+| Thu 20 Aug 2026 | 1:50 PM (IMAX) — 48 seats, 5:40 PM (IMAX) — 30 seats |
+| Fri 21 Aug 2026 | 1:50 PM (IMAX) — 47 seats, 5:40 PM (IMAX) — 24 seats |
+| Sat 22 Aug 2026 | 1:50 PM (IMAX) — 12 seats, 5:40 PM (IMAX) — 18 seats |
+| Sun 23 Aug 2026 | 1:50 PM (IMAX) — 25 seats, 5:40 PM (IMAX) — 27 seats |
+| Mon 24 Aug 2026 | 10:00 AM (IMAX) — 49 seats, 1:50 PM (IMAX) — 49 seats |
+| Tue 25 Aug 2026 | 1:50 PM (IMAX) — 18 seats, 5:40 PM (IMAX) — 21 seats |
+| Wed 26 Aug 2026 | 1:50 PM (IMAX) — 50 seats, 5:40 PM (IMAX) — 34 seats |
