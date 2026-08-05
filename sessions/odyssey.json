@@ -1,13 +1,4 @@
 {
-  "2026-08-05": [
-    {
-      "sessionId": 15434288,
-      "startTime": "2026-08-05T21:30",
-      "screen": "IMAX",
-      "seatsAvailable": 7,
-      "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15434288"
-    }
-  ],
   "2026-08-06": [
     {
       "sessionId": 15521482,
@@ -20,7 +11,7 @@
       "sessionId": 15445529,
       "startTime": "2026-08-06T10:00",
       "screen": "IMAX",
-      "seatsAvailable": 24,
+      "seatsAvailable": 23,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15445529"
     },
     {
@@ -41,7 +32,7 @@
       "sessionId": 15445532,
       "startTime": "2026-08-06T21:30",
       "screen": "IMAX",
-      "seatsAvailable": 27,
+      "seatsAvailable": 22,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15445532"
     }
   ],
@@ -50,21 +41,21 @@
       "sessionId": 15521483,
       "startTime": "2026-08-07T06:15",
       "screen": "IMAX",
-      "seatsAvailable": 51,
+      "seatsAvailable": 50,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15521483"
     },
     {
       "sessionId": 15445533,
       "startTime": "2026-08-07T10:00",
       "screen": "IMAX",
-      "seatsAvailable": 24,
+      "seatsAvailable": 23,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15445533"
     },
     {
       "sessionId": 15445534,
       "startTime": "2026-08-07T13:50",
       "screen": "IMAX",
-      "seatsAvailable": 17,
+      "seatsAvailable": 18,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15445534"
     },
     {
@@ -94,7 +85,7 @@
       "sessionId": 15445537,
       "startTime": "2026-08-08T10:00",
       "screen": "IMAX",
-      "seatsAvailable": 14,
+      "seatsAvailable": 15,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15445537"
     },
     {
@@ -124,7 +115,7 @@
       "sessionId": 15521485,
       "startTime": "2026-08-09T06:15",
       "screen": "IMAX",
-      "seatsAvailable": 37,
+      "seatsAvailable": 34,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15521485"
     },
     {
@@ -175,7 +166,7 @@
       "sessionId": 15445546,
       "startTime": "2026-08-10T17:40",
       "screen": "IMAX",
-      "seatsAvailable": 19,
+      "seatsAvailable": 17,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15445546"
     },
     {
@@ -235,7 +226,7 @@
       "sessionId": 15445553,
       "startTime": "2026-08-12T13:50",
       "screen": "IMAX",
-      "seatsAvailable": 42,
+      "seatsAvailable": 41,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15445553"
     },
     {
@@ -281,7 +272,7 @@
       "sessionId": 15509218,
       "startTime": "2026-08-14T20:45",
       "screen": "IMAX",
-      "seatsAvailable": 21,
+      "seatsAvailable": 20,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15509218"
     }
   ],
@@ -400,7 +391,7 @@
       "sessionId": 15510350,
       "startTime": "2026-08-21T13:50",
       "screen": "IMAX",
-      "seatsAvailable": 43,
+      "seatsAvailable": 41,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15510350"
     },
     {
@@ -455,7 +446,7 @@
       "sessionId": 15519082,
       "startTime": "2026-08-24T13:50",
       "screen": "IMAX",
-      "seatsAvailable": 47,
+      "seatsAvailable": 45,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15519082"
     }
   ],
@@ -480,14 +471,14 @@
       "sessionId": 15519085,
       "startTime": "2026-08-26T13:50",
       "screen": "IMAX",
-      "seatsAvailable": 48,
+      "seatsAvailable": 50,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15519085"
     },
     {
       "sessionId": 15522143,
       "startTime": "2026-08-26T17:40",
       "screen": "IMAX",
-      "seatsAvailable": 32,
+      "seatsAvailable": 30,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15522143"
     }
   ]
