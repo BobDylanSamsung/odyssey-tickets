@@ -1,13 +1,4 @@
 {
-  "2026-08-06": [
-    {
-      "sessionId": 15445532,
-      "startTime": "2026-08-06T21:30",
-      "screen": "IMAX",
-      "seatsAvailable": 3,
-      "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15445532"
-    }
-  ],
   "2026-08-07": [
     {
       "sessionId": 15521483,
@@ -27,7 +18,7 @@
       "sessionId": 15445534,
       "startTime": "2026-08-07T13:50",
       "screen": "IMAX",
-      "seatsAvailable": 17,
+      "seatsAvailable": 11,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15445534"
     },
     {
@@ -57,7 +48,7 @@
       "sessionId": 15445537,
       "startTime": "2026-08-08T10:00",
       "screen": "IMAX",
-      "seatsAvailable": 11,
+      "seatsAvailable": 10,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15445537"
     },
     {
@@ -87,7 +78,7 @@
       "sessionId": 15521485,
       "startTime": "2026-08-09T06:15",
       "screen": "IMAX",
-      "seatsAvailable": 30,
+      "seatsAvailable": 28,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15521485"
     },
     {
@@ -115,7 +106,7 @@
       "sessionId": 15445543,
       "startTime": "2026-08-09T21:30",
       "screen": "IMAX",
-      "seatsAvailable": 22,
+      "seatsAvailable": 21,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15445543"
     }
   ],
@@ -191,14 +182,14 @@
       "sessionId": 15445552,
       "startTime": "2026-08-12T10:00",
       "screen": "IMAX",
-      "seatsAvailable": 34,
+      "seatsAvailable": 32,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15445552"
     },
     {
       "sessionId": 15445553,
       "startTime": "2026-08-12T13:50",
       "screen": "IMAX",
-      "seatsAvailable": 39,
+      "seatsAvailable": 37,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15445553"
     },
     {
@@ -221,7 +212,7 @@
       "sessionId": 15509429,
       "startTime": "2026-08-13T14:00",
       "screen": "IMAX",
-      "seatsAvailable": 42,
+      "seatsAvailable": 41,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15509429"
     },
     {
@@ -260,14 +251,14 @@
       "sessionId": 15509428,
       "startTime": "2026-08-15T11:15",
       "screen": "IMAX",
-      "seatsAvailable": 15,
+      "seatsAvailable": 11,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15509428"
     },
     {
       "sessionId": 15530054,
       "startTime": "2026-08-15T20:45",
       "screen": "IMAX",
-      "seatsAvailable": 15,
+      "seatsAvailable": 13,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15530054"
     }
   ],
@@ -283,7 +274,7 @@
       "sessionId": 15509430,
       "startTime": "2026-08-16T14:00",
       "screen": "IMAX",
-      "seatsAvailable": 6,
+      "seatsAvailable": 4,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15509430"
     },
     {
@@ -315,7 +306,7 @@
       "sessionId": 15509431,
       "startTime": "2026-08-18T11:15",
       "screen": "IMAX",
-      "seatsAvailable": 22,
+      "seatsAvailable": 20,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15509431"
     },
     {
@@ -338,7 +329,7 @@
       "sessionId": 15509224,
       "startTime": "2026-08-19T20:45",
       "screen": "IMAX",
-      "seatsAvailable": 27,
+      "seatsAvailable": 25,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15509224"
     }
   ],
@@ -347,14 +338,14 @@
       "sessionId": 15519081,
       "startTime": "2026-08-20T13:50",
       "screen": "IMAX",
-      "seatsAvailable": 43,
+      "seatsAvailable": 42,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15519081"
     },
     {
       "sessionId": 15519080,
       "startTime": "2026-08-20T17:40",
       "screen": "IMAX",
-      "seatsAvailable": 26,
+      "seatsAvailable": 24,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15519080"
     }
   ],
@@ -450,7 +441,7 @@
       "sessionId": 15522143,
       "startTime": "2026-08-26T17:40",
       "screen": "IMAX",
-      "seatsAvailable": 28,
+      "seatsAvailable": 27,
       "bookingUrl": "https://www.eventcinemas.com.au/orders/tickets#sessionId=15522143"
     }
   ]
