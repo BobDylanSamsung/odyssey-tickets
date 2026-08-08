@@ -493,14 +493,14 @@
     "date": "2026-09-01",
     "startTime": "2026-09-01T10:00",
     "screen": "IMAX",
-    "seatsAvailable": 171,
+    "seatsAvailable": 162,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546097": {
     "date": "2026-09-01",
     "startTime": "2026-09-01T13:50",
     "screen": "IMAX",
-    "seatsAvailable": 139,
+    "seatsAvailable": 130,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546050": {
@@ -514,14 +514,14 @@
     "date": "2026-09-01",
     "startTime": "2026-09-01T21:30",
     "screen": "IMAX",
-    "seatsAvailable": 103,
+    "seatsAvailable": 98,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546094": {
     "date": "2026-09-02",
     "startTime": "2026-09-02T10:40",
     "screen": "IMAX",
-    "seatsAvailable": 245,
+    "seatsAvailable": 243,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546098": {
@@ -535,42 +535,42 @@
     "date": "2026-09-02",
     "startTime": "2026-09-02T21:30",
     "screen": "IMAX",
-    "seatsAvailable": 142,
+    "seatsAvailable": 140,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546060": {
     "date": "2026-09-03",
     "startTime": "2026-09-03T10:00",
     "screen": "IMAX",
-    "seatsAvailable": 260,
+    "seatsAvailable": 256,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546059": {
     "date": "2026-09-03",
     "startTime": "2026-09-03T13:50",
     "screen": "IMAX",
-    "seatsAvailable": 193,
+    "seatsAvailable": 186,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546058": {
     "date": "2026-09-03",
     "startTime": "2026-09-03T17:40",
     "screen": "IMAX",
-    "seatsAvailable": 81,
+    "seatsAvailable": 77,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546057": {
     "date": "2026-09-03",
     "startTime": "2026-09-03T21:30",
     "screen": "IMAX",
-    "seatsAvailable": 159,
+    "seatsAvailable": 148,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546061": {
     "date": "2026-09-04",
     "startTime": "2026-09-04T10:00",
     "screen": "IMAX",
-    "seatsAvailable": 233,
+    "seatsAvailable": 229,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546062": {
@@ -584,7 +584,7 @@
     "date": "2026-09-04",
     "startTime": "2026-09-04T17:40",
     "screen": "IMAX",
-    "seatsAvailable": 80,
+    "seatsAvailable": 74,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546064": {
@@ -598,21 +598,21 @@
     "date": "2026-09-05",
     "startTime": "2026-09-05T06:15",
     "screen": "IMAX",
-    "seatsAvailable": 191,
+    "seatsAvailable": 187,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546068": {
     "date": "2026-09-05",
     "startTime": "2026-09-05T10:00",
     "screen": "IMAX",
-    "seatsAvailable": 84,
+    "seatsAvailable": 79,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546067": {
     "date": "2026-09-05",
     "startTime": "2026-09-05T13:50",
     "screen": "IMAX",
-    "seatsAvailable": 79,
+    "seatsAvailable": 81,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546066": {
@@ -633,21 +633,21 @@
     "date": "2026-09-06",
     "startTime": "2026-09-06T07:00",
     "screen": "IMAX",
-    "seatsAvailable": 169,
+    "seatsAvailable": 156,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546033": {
     "date": "2026-09-06",
     "startTime": "2026-09-06T13:50",
     "screen": "IMAX",
-    "seatsAvailable": 77,
+    "seatsAvailable": 74,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546034": {
     "date": "2026-09-06",
     "startTime": "2026-09-06T17:40",
     "screen": "IMAX",
-    "seatsAvailable": 71,
+    "seatsAvailable": 73,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546035": {
@@ -661,35 +661,35 @@
     "date": "2026-09-07",
     "startTime": "2026-09-07T10:00",
     "screen": "IMAX",
-    "seatsAvailable": 239,
+    "seatsAvailable": 230,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546054": {
     "date": "2026-09-07",
     "startTime": "2026-09-07T13:50",
     "screen": "IMAX",
-    "seatsAvailable": 222,
+    "seatsAvailable": 215,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546056": {
     "date": "2026-09-07",
     "startTime": "2026-09-07T21:30",
     "screen": "IMAX",
-    "seatsAvailable": 196,
+    "seatsAvailable": 188,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546074": {
     "date": "2026-09-08",
     "startTime": "2026-09-08T10:00",
     "screen": "IMAX",
-    "seatsAvailable": 205,
+    "seatsAvailable": 204,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546073": {
     "date": "2026-09-08",
     "startTime": "2026-09-08T13:50",
     "screen": "IMAX",
-    "seatsAvailable": 179,
+    "seatsAvailable": 173,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546072": {
@@ -703,14 +703,14 @@
     "date": "2026-09-08",
     "startTime": "2026-09-08T21:30",
     "screen": "IMAX",
-    "seatsAvailable": 104,
+    "seatsAvailable": 103,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546076": {
     "date": "2026-09-09",
     "startTime": "2026-09-09T13:30",
     "screen": "IMAX",
-    "seatsAvailable": 229,
+    "seatsAvailable": 227,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546075": {
@@ -724,49 +724,49 @@
     "date": "2026-09-10",
     "startTime": "2026-09-10T10:00",
     "screen": "IMAX",
-    "seatsAvailable": 254,
+    "seatsAvailable": 250,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546038": {
     "date": "2026-09-10",
     "startTime": "2026-09-10T13:50",
     "screen": "IMAX",
-    "seatsAvailable": 225,
+    "seatsAvailable": 219,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546037": {
     "date": "2026-09-11",
     "startTime": "2026-09-11T10:00",
     "screen": "IMAX",
-    "seatsAvailable": 235,
+    "seatsAvailable": 233,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546036": {
     "date": "2026-09-11",
     "startTime": "2026-09-11T13:50",
     "screen": "IMAX",
-    "seatsAvailable": 210,
+    "seatsAvailable": 197,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546103": {
     "date": "2026-09-11",
     "startTime": "2026-09-11T17:40",
     "screen": "IMAX",
-    "seatsAvailable": 88,
+    "seatsAvailable": 85,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546086": {
     "date": "2026-09-12",
     "startTime": "2026-09-12T06:15",
     "screen": "IMAX",
-    "seatsAvailable": 218,
+    "seatsAvailable": 206,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546040": {
     "date": "2026-09-12",
     "startTime": "2026-09-12T10:00",
     "screen": "IMAX",
-    "seatsAvailable": 87,
+    "seatsAvailable": 80,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546041": {
@@ -780,49 +780,49 @@
     "date": "2026-09-12",
     "startTime": "2026-09-12T17:40",
     "screen": "IMAX",
-    "seatsAvailable": 75,
+    "seatsAvailable": 74,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546087": {
     "date": "2026-09-13",
     "startTime": "2026-09-13T07:00",
     "screen": "IMAX",
-    "seatsAvailable": 162,
+    "seatsAvailable": 157,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546077": {
     "date": "2026-09-13",
     "startTime": "2026-09-13T10:50",
     "screen": "IMAX",
-    "seatsAvailable": 86,
+    "seatsAvailable": 82,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546120": {
     "date": "2026-09-13",
     "startTime": "2026-09-13T21:30",
     "screen": "IMAX",
-    "seatsAvailable": 164,
+    "seatsAvailable": 149,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546078": {
     "date": "2026-09-14",
     "startTime": "2026-09-14T10:00",
     "screen": "IMAX",
-    "seatsAvailable": 249,
+    "seatsAvailable": 247,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546079": {
     "date": "2026-09-14",
     "startTime": "2026-09-14T13:50",
     "screen": "IMAX",
-    "seatsAvailable": 240,
+    "seatsAvailable": 234,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546080": {
     "date": "2026-09-14",
     "startTime": "2026-09-14T17:40",
     "screen": "IMAX",
-    "seatsAvailable": 100,
+    "seatsAvailable": 97,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546119": {
@@ -836,35 +836,35 @@
     "date": "2026-09-15",
     "startTime": "2026-09-15T10:00",
     "screen": "IMAX",
-    "seatsAvailable": 208,
+    "seatsAvailable": 201,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546081": {
     "date": "2026-09-15",
     "startTime": "2026-09-15T13:50",
     "screen": "IMAX",
-    "seatsAvailable": 200,
+    "seatsAvailable": 194,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546083": {
     "date": "2026-09-15",
     "startTime": "2026-09-15T21:30",
     "screen": "IMAX",
-    "seatsAvailable": 103,
+    "seatsAvailable": 100,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546084": {
     "date": "2026-09-16",
     "startTime": "2026-09-16T09:40",
     "screen": "IMAX",
-    "seatsAvailable": 271,
+    "seatsAvailable": 265,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546085": {
     "date": "2026-09-16",
     "startTime": "2026-09-16T13:30",
     "screen": "IMAX",
-    "seatsAvailable": 235,
+    "seatsAvailable": 226,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546118": {
@@ -878,28 +878,28 @@
     "date": "2026-09-18",
     "startTime": "2026-09-18T11:00",
     "screen": "IMAX",
-    "seatsAvailable": 214,
+    "seatsAvailable": 210,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546112": {
     "date": "2026-09-18",
     "startTime": "2026-09-18T17:40",
     "screen": "IMAX",
-    "seatsAvailable": 86,
+    "seatsAvailable": 78,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546104": {
     "date": "2026-09-19",
     "startTime": "2026-09-19T07:00",
     "screen": "IMAX",
-    "seatsAvailable": 187,
+    "seatsAvailable": 184,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546107": {
     "date": "2026-09-19",
     "startTime": "2026-09-19T11:00",
     "screen": "IMAX",
-    "seatsAvailable": 78,
+    "seatsAvailable": 76,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546113": {
@@ -913,14 +913,14 @@
     "date": "2026-09-20",
     "startTime": "2026-09-20T07:00",
     "screen": "IMAX",
-    "seatsAvailable": 171,
+    "seatsAvailable": 170,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546108": {
     "date": "2026-09-20",
     "startTime": "2026-09-20T11:00",
     "screen": "IMAX",
-    "seatsAvailable": 81,
+    "seatsAvailable": 75,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546114": {
@@ -934,21 +934,21 @@
     "date": "2026-09-21",
     "startTime": "2026-09-21T11:00",
     "screen": "IMAX",
-    "seatsAvailable": 220,
+    "seatsAvailable": 208,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546117": {
     "date": "2026-09-21",
     "startTime": "2026-09-21T20:45",
     "screen": "IMAX",
-    "seatsAvailable": 141,
+    "seatsAvailable": 139,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546110": {
     "date": "2026-09-22",
     "startTime": "2026-09-22T11:30",
     "screen": "IMAX",
-    "seatsAvailable": 192,
+    "seatsAvailable": 190,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546115": {
@@ -962,14 +962,14 @@
     "date": "2026-09-23",
     "startTime": "2026-09-23T11:00",
     "screen": "IMAX",
-    "seatsAvailable": 218,
+    "seatsAvailable": 213,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546116": {
     "date": "2026-09-23",
     "startTime": "2026-09-23T17:40",
     "screen": "IMAX",
-    "seatsAvailable": 92,
+    "seatsAvailable": 89,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546305": {
