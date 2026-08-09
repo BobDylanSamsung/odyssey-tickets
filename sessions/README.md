@@ -1,6 +1,6 @@
 # The Odyssey at IMAX Sydney
 
-Last checked: 2026-08-09 20:40 UTC
+Last checked: 2026-08-09 21:38 UTC
 On sale through: **2026-09-23**
 
 ## All sessions
@@ -28,17 +28,17 @@ On sale through: **2026-09-23**
 | Fri 28 Aug 2026 | 10:00 AM (IMAX) — 166 seats, 1:50 PM (IMAX) — 108 seats, 5:40 PM (IMAX) — 65 seats, 9:30 PM (IMAX) — 67 seats |
 | Sat 29 Aug 2026 | 6:15 AM (IMAX) — 136 seats, 10:00 AM (IMAX) — 65 seats, 1:50 PM (IMAX) — 53 seats, 5:40 PM (IMAX) — 58 seats, 9:30 PM (IMAX) — 68 seats |
 | Sun 30 Aug 2026 | 6:15 AM (IMAX) — 153 seats, 10:00 AM (IMAX) — 68 seats, 1:50 PM (IMAX) — 59 seats, 5:40 PM (IMAX) — 62 seats, 9:30 PM (IMAX) — 81 seats |
-| Mon 31 Aug 2026 | 10:00 AM (IMAX) — 171 seats, 1:50 PM (IMAX) — 165 seats, 5:40 PM (IMAX) — 68 seats, 9:30 PM (IMAX) — 109 seats |
-| Tue 1 Sep 2026 | 10:00 AM (IMAX) — 117 seats, 1:50 PM (IMAX) — 92 seats, 5:40 PM (IMAX) — 56 seats, 9:30 PM (IMAX) — 73 seats |
+| Mon 31 Aug 2026 | 10:00 AM (IMAX) — 169 seats, 1:50 PM (IMAX) — 165 seats, 5:40 PM (IMAX) — 68 seats, 9:30 PM (IMAX) — 109 seats |
+| Tue 1 Sep 2026 | 10:00 AM (IMAX) — 114 seats, 1:50 PM (IMAX) — 92 seats, 5:40 PM (IMAX) — 56 seats, 9:30 PM (IMAX) — 73 seats |
 | Wed 2 Sep 2026 | 10:40 AM (IMAX) — 207 seats, 2:30 PM (IMAX) — 163 seats, 9:30 PM (IMAX) — 119 seats |
 | Thu 3 Sep 2026 | 10:00 AM (IMAX) — 206 seats, 1:50 PM (IMAX) — 154 seats, 5:40 PM (IMAX) — 69 seats, 9:30 PM (IMAX) — 97 seats |
 | Fri 4 Sep 2026 | 10:00 AM (IMAX) — 200 seats, 1:50 PM (IMAX) — 124 seats, 5:40 PM (IMAX) — 67 seats, 9:30 PM (IMAX) — 70 seats |
 | Sat 5 Sep 2026 | 6:15 AM (IMAX) — 160 seats, 10:00 AM (IMAX) — 68 seats, 1:50 PM (IMAX) — 64 seats, 5:40 PM (IMAX) — 66 seats, 9:30 PM (IMAX) — 71 seats |
 | Sun 6 Sep 2026 | 7:00 AM (IMAX) — 112 seats, 1:50 PM (IMAX) — 67 seats, 5:40 PM (IMAX) — 68 seats, 9:30 PM (IMAX) — 103 seats |
 | Mon 7 Sep 2026 | 10:00 AM (IMAX) — 199 seats, 1:50 PM (IMAX) — 176 seats, 9:30 PM (IMAX) — 134 seats |
-| Tue 8 Sep 2026 | 10:00 AM (IMAX) — 156 seats, 1:50 PM (IMAX) — 141 seats, 5:40 PM (IMAX) — 60 seats, 9:30 PM (IMAX) — 76 seats |
+| Tue 8 Sep 2026 | 10:00 AM (IMAX) — 156 seats, 1:50 PM (IMAX) — 141 seats, 5:40 PM (IMAX) — 59 seats, 9:30 PM (IMAX) — 76 seats |
 | Wed 9 Sep 2026 | 1:30 PM (IMAX) — 192 seats, 9:00 PM (IMAX) — 139 seats |
-| Thu 10 Sep 2026 | 10:00 AM (IMAX) — 207 seats, 1:50 PM (IMAX) — 185 seats |
+| Thu 10 Sep 2026 | 10:00 AM (IMAX) — 207 seats, 1:50 PM (IMAX) — 184 seats |
 | Fri 11 Sep 2026 | 10:00 AM (IMAX) — 193 seats, 1:50 PM (IMAX) — 152 seats, 5:40 PM (IMAX) — 69 seats |
 | Sat 12 Sep 2026 | 6:15 AM (IMAX) — 180 seats, 10:00 AM (IMAX) — 64 seats, 1:50 PM (IMAX) — 66 seats, 5:40 PM (IMAX) — 68 seats |
 | Sun 13 Sep 2026 | 7:00 AM (IMAX) — 101 seats, 10:50 AM (IMAX) — 60 seats, 5:40 PM (IMAX) — 68 seats, 9:30 PM (IMAX) — 112 seats |
