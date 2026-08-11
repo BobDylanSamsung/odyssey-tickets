@@ -731,7 +731,7 @@
     "date": "2026-09-10",
     "startTime": "2026-09-10T13:50",
     "screen": "IMAX",
-    "seatsAvailable": 150,
+    "seatsAvailable": 149,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546037": {
@@ -878,7 +878,7 @@
     "date": "2026-09-18",
     "startTime": "2026-09-18T11:00",
     "screen": "IMAX",
-    "seatsAvailable": 135,
+    "seatsAvailable": 131,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546112": {
@@ -962,7 +962,7 @@
     "date": "2026-09-23",
     "startTime": "2026-09-23T11:00",
     "screen": "IMAX",
-    "seatsAvailable": 138,
+    "seatsAvailable": 139,
     "firstSeenAt": "2026-08-07T00:08:41Z"
   },
   "15546116": {
